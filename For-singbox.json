@@ -1,4 +1,4 @@
-{
+time.is{
   "log": {
     "level": "debug",
     "timestamp": true
@@ -138,7 +138,7 @@
     {
       "tag": "SBO", // 修改名称1
       "type": "vless",
-      "server": "www.4chan.org", //优选ip或 域名
+      "server": "time.is", //优选ip或 域名
       "server_port": 80,
       "uuid": "92eef6c4-3024-4068-9bf9-6ee2607f8f6f", //修改uuid
       "packet_encoding": "xudp",
@@ -155,7 +155,7 @@
     {
       "tag": "SBT", // 修改名称2
       "type": "vless",
-      "server": "www.4chan.org", //优选ip或 域名
+      "server": "time.is", //优选ip或 域名
       "server_port": 80,
       "uuid": "92eef6c4-3024-4068-9bf9-6ee2607f8f6f", //修改uuid
       "packet_encoding": "xudp",
